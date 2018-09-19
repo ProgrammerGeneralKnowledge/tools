@@ -17,7 +17,8 @@
 * Katalon Recorder -- Selenium IDE for Chrome
 
 ### Java
-* Postman -- web请求测试
+* Postman -- web请求测试  
+* Postman Interceptor Chrome扩展，可以将浏览器中的请求参数，自动发送给postman   
 
 ### Other
 Insight.io -- github目录结构展示
