@@ -24,7 +24,8 @@
 * Postman Interceptor Chrome扩展，可以将浏览器中的请求参数，自动发送给postman   
 
 ### Other
- * Insight.io -- github目录结构展示
+ * Insight.io -- github目录结构展示（该插件已搜不到）
+ * Octotree  --github目录结构展示
 
 
 
