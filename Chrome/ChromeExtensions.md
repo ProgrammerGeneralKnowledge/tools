@@ -7,6 +7,8 @@
 * Evernote Web Clipper -- 印象笔记保存网页内容
 * OneTab -- 浏览器窗口管理
 * Print Friendly & PDF -- 网页内容保存为pdf
+* Save Page WE  --网页内容保存，图片会被编码内嵌在网页中 
+* SignleFile --网页内容保存，图片会被编码内嵌在网页中  
 
 
 ## developer tools
